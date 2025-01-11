@@ -19,6 +19,4 @@ jobs:
         java-version: "23"
         java-package: "jdk"
         cache: "maven"
-    - run: "sdk env install"
-    - run: "sdk env"
     - run: "mvn clean spotless:check install"

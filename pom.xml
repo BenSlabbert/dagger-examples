@@ -14,6 +14,7 @@
     <module>external-library</module>
     <module>assisted</module>
     <module>test</module>
+    <module>three</module>
   </modules>
 
   <properties>
@@ -218,6 +219,9 @@
             <!--dagger-->
             <arg>-Adagger.fastInit=enabled</arg>
             <arg>-Adagger.formatGeneratedSource=enabled</arg>
+            <arg>-Adagger.useBindingGraphFix=ENABLED</arg>
+            <arg>-Adagger.fullBindingGraphValidation=ERROR</arg>
+            <arg>-Adagger.ignoreProvisionKeyWildcards=ENABLED</arg>
             <!--errorprone-->
             <arg>-XDcompilePolicy=simple</arg>
             <arg>--should-stop=ifError=FLOW</arg>

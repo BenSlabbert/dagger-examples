@@ -30,7 +30,7 @@
     <errorprone.version>2.41.0</errorprone.version>
     <jakarta.annotation-api.version>3.0.0</jakarta.annotation-api.version>
     <junit.version>5.13.4</junit.version>
-    <assertj.version>3.27.3</assertj.version>
+    <assertj.version>3.27.4</assertj.version>
     <mockito.version>5.18.0</mockito.version>
 
     <!--plugins-->

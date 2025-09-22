@@ -30,21 +30,21 @@
     <errorprone.version>2.42.0</errorprone.version>
     <jakarta.annotation-api.version>3.0.0</jakarta.annotation-api.version>
     <junit.version>5.13.4</junit.version>
-    <assertj.version>3.27.5</assertj.version>
-    <mockito.version>5.19.0</mockito.version>
+    <assertj.version>3.27.6</assertj.version>
+    <mockito.version>5.20.0</mockito.version>
 
     <!--plugins-->
     <maven-shade-plugin.version>3.6.1</maven-shade-plugin.version>
     <maven-clean-plugin.version>3.5.0</maven-clean-plugin.version>
     <maven-resources-plugin.version>3.3.1</maven-resources-plugin.version>
     <maven-dependency-plugin.version>3.8.1</maven-dependency-plugin.version>
-    <maven-compiler-plugin.version>3.14.0</maven-compiler-plugin.version>
+    <maven-compiler-plugin.version>3.14.1</maven-compiler-plugin.version>
     <maven-surefire-plugin.version>3.5.4</maven-surefire-plugin.version>
     <maven-failsafe-plugin.version>3.5.2</maven-failsafe-plugin.version>
     <maven-jar-plugin.version>3.4.2</maven-jar-plugin.version>
     <maven-install-plugin.version>3.1.4</maven-install-plugin.version>
     <spotless.version>2.46.1</spotless.version>
-    <flatten-maven-plugin.version>1.7.2</flatten-maven-plugin.version>
+    <flatten-maven-plugin.version>1.7.3</flatten-maven-plugin.version>
   </properties>
 
   <dependencyManagement>

@@ -31,7 +31,7 @@
     <jakarta.annotation-api.version>3.0.0</jakarta.annotation-api.version>
     <junit.version>6.0.1</junit.version>
     <assertj.version>3.27.6</assertj.version>
-    <mockito.version>5.20.0</mockito.version>
+    <mockito.version>5.21.0</mockito.version>
 
     <!--plugins-->
     <maven-shade-plugin.version>3.6.1</maven-shade-plugin.version>
